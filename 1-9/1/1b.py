@@ -1,4 +1,4 @@
-# Part 2: How many sums are larger than the previous sum? [ x ]
+# Part 2: How many sums are larger than the previous sum? [ 1645 ]
 
 data = open("1_data.txt", "r")
 data_list = data.readlines()
